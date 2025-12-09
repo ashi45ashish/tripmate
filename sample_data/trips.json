@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Beach Paradise",
+    "description": "Relaxing beach vacation with crystal clear waters",
+    "location": "Maldives",
+    "price": 2500,
+    "duration": 7,
+    "imageUrl": "https://images.unsplash.com/photo-1682687219640-b3f11f4b7234",
+    "type": "international",
+    "activities": ["swimming", "snorkeling", "sunbathing", "island hopping"],
+    "healthRequirements": ["good physical condition", "able to swim"],
+    "ageRecommendation": {
+      "min": 18,
+      "max": 65
+    }
+  },
+  {
+    "name": "Mountain Adventure",
+    "description": "Hiking and exploring mountains with breathtaking views",
+    "location": "Swiss Alps",
+    "price": 3000,
+    "duration": 10,
+    "imageUrl": "https://images.unsplash.com/photo-1682687982183-c2937a74257c",
+    "type": "international",
+    "activities": ["hiking", "skiing", "photography", "mountain climbing"],
+    "healthRequirements": ["excellent physical condition", "no heart conditions"],
+    "ageRecommendation": {
+      "min": 20,
+      "max": 50
+    }
+  },
+  {
+    "name": "Cultural Heritage Tour",
+    "description": "Explore ancient temples and local traditions",
+    "location": "Kyoto, Japan",
+    "price": 2800,
+    "duration": 8,
+    "imageUrl": "https://images.unsplash.com/photo-1545569341-9eb8b30979d9",
+    "type": "international",
+    "activities": ["temple visits", "tea ceremony", "traditional crafts", "garden tours"],
+    "healthRequirements": ["moderate physical condition", "able to walk for extended periods"],
+    "ageRecommendation": {
+      "min": 25,
+      "max": 70
+    }
+  }
+]
